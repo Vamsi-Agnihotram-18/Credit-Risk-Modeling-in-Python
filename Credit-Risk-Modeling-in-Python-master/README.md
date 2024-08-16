@@ -1,6 +1,10 @@
 # Credit-Risk-Modeling-in-Python
 
-#Combination project of Economics, Data Analytics  & Python
+### Combination project of Economics, Data Analytics & Python
+
+## Team:  
+Vamsi Agnihotram (016920709)
+Yashwanth Kumar (01749119)
 
 I have modeled the credit risk associated with consumer loans. The jupyter notebook contains detailed explanation with comments, 
 code and visualizations. 
